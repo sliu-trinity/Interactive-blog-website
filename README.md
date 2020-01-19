@@ -1,3 +1,6 @@
+This is a project I Implemented based on a Chinese post reading website. I self-taught myself React, Redux and other middlewares that makes Javascript front-end development so convenient and powerful. I used Charles for backend data mocking. Then web storage using AWS/GCP will be additionally used for user data. User login, search box, popular search tags and post lists are implemented.
+
+Usage Info: 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
